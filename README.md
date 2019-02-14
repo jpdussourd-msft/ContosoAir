@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jpdready19/ContosoAir-Ready19/_apis/build/status/jpdussourd-msft.ContosoAir?branchName=master)](https://dev.azure.com/jpdready19/ContosoAir-Ready19/_build/latest?definitionId=1&branchName=master)
 
 
 
